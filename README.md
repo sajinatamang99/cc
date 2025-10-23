@@ -10,12 +10,12 @@ It follows Infrastructure as Code (IaC) principles to automate the setup of clou
  The entire environment — from code to cloud — is defined, version-controlled, and reproducible.
 	
 ## 2. Prerequisites
-Before running this project, ensure the following are available:
-  ✅ AWS Account with IAM User (programmatic access)
-  ✅ AWS CLI configured (aws configure)
-  ✅ Terraform installed (via VS Code)
-  ✅ GitHub account (fork & clone this repo)
-  ✅ Docker installed (for local build and ECR push)
+Before running this project, ensure the following are available
+- ✅ AWS Account with IAM User (programmatic access)
+- ✅ AWS CLI configured (aws configure)
+- ✅ Terraform installed (via VS Code)
+- ✅ GitHub account (fork & clone this repo)
+- ✅ Docker installed (for local build and ECR push)
 
 ## 3. Tools & Technologies
 
