@@ -11,11 +11,11 @@ It follows Infrastructure as Code (IaC) principles to automate the setup of clou
 	
 ## 2. Prerequisites
 Before running this project, ensure the following are available:
-✅ AWS Account with IAM User (programmatic access)
-✅ AWS CLI configured (aws configure)
-✅ Terraform installed (via VS Code)
-✅ GitHub account (fork & clone this repo)
-✅ Docker installed (for local build and ECR push)
+  ✅ AWS Account with IAM User (programmatic access)
+  ✅ AWS CLI configured (aws configure)
+  ✅ Terraform installed (via VS Code)
+  ✅ GitHub account (fork & clone this repo)
+  ✅ Docker installed (for local build and ECR push)
 
 ## 3. Tools & Technologies
 
@@ -64,6 +64,7 @@ Development and IaC editing environment
 
 ## 4. Project Structure
 
+```
 threat-composer-app/
 ├── app/                             # Frontend / application source code
 │   ├── src/                         # (React or Node app source files)
@@ -91,7 +92,7 @@ threat-composer-app/
 │
 ├── .gitignore                       # Git ignore configuration
 └── README.md                        # Project documentation
-
+```
 
 ## 5. Architecture diagram & workflow /All AWS resources deployed:
 
@@ -101,11 +102,12 @@ Clone this repository and navigate into the app directory.
 You can run the application either with npm (for development) or with Docker (for an isolated runtime).
 
 Run locally using npm: Runs the app in development mode at http://localhost:3000.
-
+```
 npm install
 npm start
-
+```
 Run locally using Docker: If you have Docker installed, you can run the app in a container (no Node.js setup needed). Access it at http://localhost:8080.
-
+```
 docker build -t threat-composer-app ./app
 docker run -p 8080:80 threat-composer-app
+```
