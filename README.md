@@ -74,12 +74,12 @@ threat-composer-app/
 Clone this repository and navigate into the app directory.
 You can run the application either with npm (for development) or with Docker (for an isolated runtime).
 
-Run locally using npm: Runs the app in development mode at http://localhost:3000.
+Using npm: Runs the app in development mode at http://localhost:3000.
 ```
 npm install
 npm start
 ```
-Run locally using Docker: If you have Docker installed, you can run the app in a container (no Node.js setup needed). Access it at http://localhost:8080.
+Using Docker: If you have Docker installed, you can run the app in a container (no Node.js setup needed). Access it at http://localhost:8080.
 ```
 docker build -t threat-composer-app ./app
 docker run -p 8080:80 threat-composer-app
