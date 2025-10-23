@@ -20,19 +20,19 @@ Before running this project, ensure the following are available
 ## 3. Tools & Technologies
 
 |Category | Tool | Purpose | 
-|IaC (Infrastructure as Code) |Terraform |Automate creation of AWS resources
-|Cloud Provider | AWS | Infrastructure hosting (Fargate, RDS, Route53, ALB, ACM, etc.)
-|Compute | AWS ECS Fargate|Run containerized Node.js application
-|Networking|AWS VPC, Subnets, Security Groups|Secure network segmentation
-|Load Balancing|AWS Application Load Balancer (ALB)|Distribute incoming traffic
-|DNS Management|AWS Route53|Domain management & routing
-|SSL/TLS Certificates|AWS ACM|Secure HTTPS access
-|Container Registry|AWS ECR|Store and version Docker images
-|Database|AWS RDS (MySQL/PostgreSQL)|Persistent backend storage
-|CI/CD|GitHub Actions|Continuous integration & deployment
-|Security Scanning|Trivy|Container image vulnerability scanning
-|Version Control|GitHub|Source code hosting and collaboration
-|IDE|Visual Studio Code|Development and IaC editing environment
+|IaC (Infrastructure as Code) |Terraform |Automate creation of AWS resources |
+|Cloud Provider | AWS | Infrastructure hosting (Fargate, RDS, Route53, ALB, ACM, etc.) |
+|Compute | AWS ECS Fargate|Run containerized Node.js application |
+|Networking|AWS VPC, Subnets, Security Groups|Secure network segmentation |
+|Load Balancing|AWS Application Load Balancer (ALB)|Distribute incoming traffic |
+|DNS Management|AWS Route53|Domain management & routing |
+|SSL/TLS Certificates|AWS ACM|Secure HTTPS access |
+|Container Registry|AWS ECR|Store and version Docker images |
+|Database|AWS RDS (MySQL/PostgreSQL)|Persistent backend storage |
+|CI/CD|GitHub Actions|Continuous integration & deployment |
+|Security Scanning|Trivy|Container image vulnerability scanning |
+|Version Control|GitHub|Source code hosting and collaboration |
+|IDE|Visual Studio Code|Development and IaC editing environment |
 
 ## 4. Project Structure
 
