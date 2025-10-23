@@ -19,7 +19,7 @@ Before running this project, ensure the following are available
 
 ## 3. Tools & Technologies
 
-| Category | Tool | Purpose | 
+|Category|Tool|Purpose| 
 |-----------|----------------|----------|
 | IaC (Infrastructure as Code) |Terraform |Automate creation of AWS resources |
 | Cloud Provider | AWS | Infrastructure hosting (Fargate, RDS, Route53, ALB, ACM, etc.) |
