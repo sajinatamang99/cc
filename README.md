@@ -1,12 +1,15 @@
-# cc
-Threat Composer — Infrastructure as Code (IaC) Deployment
+# Threat Composer — Infrastructure as Code (IaC) Deployment
 
-1. Overview
+## Table of Contents
+
+-[Overview](#overview)
+
+## 1. Overview
 This project provisions a complete AWS infrastructure for deploying a Node.js application using Terraform and GitHub Actions.
 It follows Infrastructure as Code (IaC) principles to automate the setup of cloud resources, CI/CD pipelines, security scanning, and deployment.
  The entire environment — from code to cloud — is defined, version-controlled, and reproducible.
 	
-2. Prerequisites
+## 2. Prerequisites
 Before running this project, ensure the following are available:
 ✅ AWS Account with IAM User (programmatic access)
 ✅ AWS CLI configured (aws configure)
@@ -14,7 +17,7 @@ Before running this project, ensure the following are available:
 ✅ GitHub account (fork & clone this repo)
 ✅ Docker installed (for local build and ECR push)
 
-3. Tools & Technologies
+## 3. Tools & Technologies
 
 Category
 Tool
@@ -59,7 +62,7 @@ IDE
 Visual Studio Code
 Development and IaC editing environment
 
-4. Project Structure
+## 4. Project Structure
 
 threat-composer-app/
 ├── app/                             # Frontend / application source code
@@ -90,9 +93,9 @@ threat-composer-app/
 └── README.md                        # Project documentation
 
 
-5. Architecture diagram & workflow /All AWS resources deployed:
+## 5. Architecture diagram & workflow /All AWS resources deployed:
 
-7. Local Setup
+## 7. Local Setup
 
 Clone this repository and navigate into the app directory.
 You can run the application either with npm (for development) or with Docker (for an isolated runtime).
