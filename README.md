@@ -1,19 +1,11 @@
 # Threat Composer — Infrastructure as Code (IaC) Deployment
 **Threat Composer** is an open-source web application developed by **AWS Labs**, built with Node.js for modeling and visualizing cloud threat scenarios. It provisions a monolithic 2-tier AWS architecture — the frontend (ECS Fargate) and backend (DynamoDB)— ensuring scalability, automation, and maintainability in cloud environments.
 
-🧩 Original Tool: Threat Composer Tool
-
-🌍 Live Application: www.devopsproject.org
-
-📝 Medium Blog: Threat-Composer-Blog
-
-
 🧩 Original Tool: [Threat Composer Tool](https://awslabs.github.io/threat-composer/workspaces/default/dashboard)
 
 🌍 Live Application: [www.devopsproject.org](https://www.devopsproject.org)
 
 📝 Medium Blog: [Threat Composer Medium Blog](https://medium.com/@sajina.tamang99/threat-composer-4b606d5163c0)
-
 
 ## Table of Contents
 
