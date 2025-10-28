@@ -8,9 +8,11 @@
 📝 Medium Blog: Threat-Composer-Blog
 
 
-🧩 Original Tool: [Threat Composer Tool 🔗](https://awslabs.github.io/threat-composer/workspaces/default/dashboard)
+🧩 Original Tool: [Threat Composer Tool](https://awslabs.github.io/threat-composer/workspaces/default/dashboard)
+
 🌍 Live Application: [www.devopsproject.org](https://www.devopsproject.org)
-📝 Medium Blog: [Threat Composer Medium Blog ➜](https://medium.com/@sajina.tamang99/threat-composer-4b606d5163c0)
+
+📝 Medium Blog: [Threat Composer Medium Blog](https://medium.com/@sajina.tamang99/threat-composer-4b606d5163c0)
 
 
 ## Table of Contents
