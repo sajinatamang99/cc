@@ -6,6 +6,15 @@
 🌍 Live Application: www.devopsproject.org
 
 📝 Medium Blog: Threat-Composer-Blog
+## 🧩 Original Tool
+**Threat Composer Tool** — [View Live Dashboard 🔗](https://awslabs.github.io/threat-composer/workspaces/default/dashboard)
+
+## 🌍 Live Application
+[www.devopsproject.org](https://www.devopsproject.org)
+
+## 📝 Medium Blog
+[Read the full article on Medium ➜](https://medium.com/@sajina.tamang99/threat-composer-4b606d5163c0)
+
 
 ## Table of Contents
 
